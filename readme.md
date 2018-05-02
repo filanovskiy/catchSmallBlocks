@@ -7,6 +7,6 @@ Where:
 -minBlkCount is number of small blocks. You may have files, which have few small blocks, it's not good, but not critical.
 -path / - HDFS subdirectory for analyzing
 
-//
-// For merge files you may use Spark Job. Here is the example of Spark code for merge Small Blocks.
-//
+
+For merge files you may use Spark Job. You could check "MergeFilesExample" in this repo
+
